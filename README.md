@@ -1,0 +1,2 @@
+# textSummarization
+summarize the text
