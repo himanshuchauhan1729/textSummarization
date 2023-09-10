@@ -1,2 +1,2 @@
-# textSummarization
+# Spaam classification
 summarize the text
