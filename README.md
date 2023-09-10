@@ -1,2 +1,2 @@
 # Spaam classification
-summarize the text
+Message Spam classification
